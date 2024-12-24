@@ -10,6 +10,17 @@
 ![React](https://img.shields.io/badge/react-v18.0.0-blue.svg)
 ![TypeScript](https://img.shields.io/badge/typescript-v4.9.5-blue.svg)
 
+[![Follow on X](https://img.shields.io/twitter/follow/emertechlabs?style=social)](https://twitter.com/emertechlabs)
+[![GitHub stars](https://img.shields.io/github/stars/polymathuniversata/X-EA-Awards?style=social)](https://github.com/polymathuniversata/X-EA-Awards/stargazers)
+
+</div>
+
+<div align="center">
+    <p>
+        <a href="https://twitter.com/emertechlabs">
+            <img src="https://img.shields.io/badge/Powered_by-EmerTech_Labs-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Powered by EmerTech Labs" />
+        </a>
+    </p>
 </div>
 
 ---
@@ -211,5 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-Made with ❤️ by Emertech Labs
+<p>Developed by <a href="https://github.com/polymathuniversata">Polymath Universata</a></p>
+<p>Powered by <a href="https://twitter.com/emertechlabs">EmerTech Labs</a> 🚀</p>
+<p>Made with ❤️ in Tanzania</p>
 </div> 
